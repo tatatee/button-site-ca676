@@ -7,7 +7,7 @@ async function getPageData() {
   return JSON.parse(fileContent);
 }
 
-export default async function Page() {
+export default async function QuailPage() {
   const data = await getPageData();
 
   return (
