@@ -1,6 +1,5 @@
 import fs from 'fs/promises';
 import path from 'path';
-import { CardsGrid } from 'components/cards-grid';
 
 async function getPageData() {
   const filePath = path.join(process.cwd(), 'content/quails/quail-2.json');
