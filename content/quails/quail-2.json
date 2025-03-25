@@ -1,0 +1,16 @@
+{
+  "id": "quail-2",
+  "name": "Maverick",
+  "doh": "2025-01-14",
+  "breed": "Wildtype",
+  "images": ["/images/quails/pearl-1.jpg"],
+  "notes": "NA"
+  "plumage": "Wildtype",
+  "sex": "Female",
+  "egg_production": [
+    { "date": "2024-01-01", "count": 1 },
+    { "date": "2024-01-02", "count": 0 }
+  ]
+  "genetics": ["Golden Pearl", "Blueface", "Silver", "Cinnamon", "Wildtype", "Redbreasted", "Tuxedo"],
+  "myStock": true,
+}
