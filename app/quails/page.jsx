@@ -12,6 +12,7 @@ export default async function QuailPage() {
 
   return (
       <main className="flex flex-col gap-8 sm:gap-16">
+        <h1>{data?.title || 'Quails'}</h1>
           <section className="flex flex-col gap-4">
               This is where the quail cards are displayed
           </section>
