@@ -2,7 +2,7 @@ import fs from 'fs/promises';
 import path from 'path';
 
 async function getPageData() {
-  const filePath = path.join(process.cwd(), 'content/quails/quail-2.json');
+  const filePath = path.join(process.cwd(), 'content/pages/quails.json');
   const fileContent = await fs.readFile(filePath, 'utf8');
   return JSON.parse(fileContent);
 }
