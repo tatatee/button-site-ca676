@@ -6,7 +6,7 @@ import githubLogo from 'public/images/github-mark-white.svg';
 const navItems = [
     { linkText: 'Home', href: '/' },
     { linkText: 'About', href: '/about' },
-    { linkText: 'Quail Registry', href: '/quails' },
+    { linkText: 'Button Registry', href: '/buttons' },
     { linkText: 'Genetics', href: '/genetics' },
     { linkText: 'Resources', href: '/resources' },
     { linkText: 'Quail Cam', href: '/live' },    
