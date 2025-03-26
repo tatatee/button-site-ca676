@@ -6,12 +6,11 @@ import githubLogo from 'public/images/github-mark-white.svg';
 const navItems = [
     { linkText: 'Home', href: '/' },
     { linkText: 'About', href: '/about' },
-    { linkText: 'Quails', href: '/quails' },
-    { linkText: 'Revalidation', href: '/revalidation' },
-    { linkText: 'Image CDN', href: '/image-cdn' },
-    { linkText: 'Edge Function', href: '/edge' },
-    { linkText: 'Blobs', href: '/blobs' },
-    { linkText: 'Classics', href: '/classics' }
+    { linkText: 'Button Registry', href: '/buttons' },
+    { linkText: 'Genetics', href: '/genetics' },
+    { linkText: 'Resources', href: '/resources' },
+    { linkText: 'Button Cam', href: '/live' },    
+    { linkText: 'Contact', href: '/contact' },
 ];
 
 export function Header() {
