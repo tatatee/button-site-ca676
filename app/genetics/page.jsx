@@ -2,7 +2,7 @@ import fs from 'fs/promises';
 import path from 'path';
 
 async function getPageData() {
-  const filePath = path.join(process.cwd(), 'content/pages/about.json');
+  const filePath = path.join(process.cwd(), 'content/pages/genetics.json');
   const fileContent = await fs.readFile(filePath, 'utf8');
   return JSON.parse(fileContent);
 }
