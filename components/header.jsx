@@ -9,7 +9,7 @@ const navItems = [
     { linkText: 'Button Registry', href: '/buttons' },
     { linkText: 'Genetics', href: '/genetics' },
     { linkText: 'Resources', href: '/resources' },
-    { linkText: 'Quail Cam', href: '/live' },    
+    { linkText: 'Button Cam', href: '/live' },    
     { linkText: 'Contact', href: '/contact' },
 ];
 
