@@ -12,5 +12,5 @@
     { "date": "2024-01-02", "count": 0 }
   ]
   "genetics": ["Golden Pearl", "Blueface", "Silver", "Cinnamon", "Wildtype", "Redbreasted", "Tuxedo"],
-  "myStock": true,
+  "myStock": true
 }
