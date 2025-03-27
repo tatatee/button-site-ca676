@@ -19,13 +19,12 @@ module.exports = {
     daisyui: {
         themes: [
             {
-                lofi: {
-                    ...require('daisyui/src/theming/themes')['lofi'],
-                    primary: '#2bdcd2',
-                    'primary-content': '#171717',
-                    secondary: '#016968',
-                    info: '#2bdcd2',
-                    'info-content': '#171717',
+                forest: {
+                    ...require('daisyui/src/theming/themes')['forest'],
+                    'base-100': oklch(97.788% 0.004 56.375),
+                    'base-200': oklch(93.982% 0.007 61.449),
+                    'base-300': oklch(91.586% 0.006 53.44),
+                    'base-content': oklch(23.574% 0.066 313.189),
                 }
             }
         ]
