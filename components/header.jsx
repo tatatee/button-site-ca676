@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import siteLogo from 'public/site-logo.svg';
+import siteLogo from 'public/site-logo.png';
 import githubLogo from 'public/images/github-mark-white.svg';
 
 const navItems = [
